@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [solitaire](https://github.com/peezlepass/solitaire)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**.
 
-- 📫 How to reach me **https://www.linkedin.com/in/ellina-shcherbaeva/**
+- 📫 How to reach me: **https://www.linkedin.com/in/ellina-shcherbaeva/**
 
 <p align="left">
 </p>
