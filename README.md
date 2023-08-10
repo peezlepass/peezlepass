@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ellina</h1>
-<h3 align="center">A passionate junior software engineer.</h3>
+<h3 align="center">Sometimes I code.</h3>
 
 - 🔭 I’m currently working on [solitaire](https://github.com/peezlepass/solitaire)
 
