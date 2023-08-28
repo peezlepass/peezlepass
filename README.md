@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellina</h1>
 
-- 🔭 I’m currently working on [solitaire](https://github.com/peezlepass/solitaire)
+- 🔭 I’m currently working on [my portfolio]((https://peezlepass.com))
 
 - 🌱 I’m currently learning **React**.
 
