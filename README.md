@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React**.
 
-- 📫 How to reach me: **https://www.linkedin.com/in/ellina-shcherbaeva/**
-
 <p align="left">
 </p>
 
