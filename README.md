@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ellina</h1>
+<h1 align="center">Hi there 👋</h1>
 
 - 🔭 I’m currently working on <a href="https://peezlepass.com">my portfolio.</a>
 
